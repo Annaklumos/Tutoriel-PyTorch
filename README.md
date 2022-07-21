@@ -20,7 +20,7 @@ CUDA (_Compute Unified Device Architecture_) est une technologie de GPGPU (_Gene
 
 Pour ceux possédant un GPU compatible avec CUDA (principalement ceux possédant une carte graphique Nvidia), je vous invite à vous rendre sur le [lien officiel](https://developer.nvidia.com/cuda-11.3.0-download-archive) et de suivre les instructions d'installation afin d'installer CUDA sur votre ordinateur.
 
-Cette étape est optionnelle, vous n'avez pas besoin d'installer CUDA pour pouvoir utiliser PyTorch. Néanmoins, cette étape permet d'améliorer la vitesse des calculs réaliser et de stocker sur différentes mémoires certaines variables, je vous recommande donc de la faire. 
+Cette étape est optionnelle, vous n'avez pas besoin d'installer CUDA pour pouvoir utiliser PyTorch. Néanmoins, cette étape permet d'améliorer la vitesse des calculs réalisés et de stocker sur différentes mémoires certaines variables, je vous recommande donc de la faire. 
 
 # III. Installation de PyTorch 
 
