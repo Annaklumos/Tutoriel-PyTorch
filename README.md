@@ -32,4 +32,4 @@ Pour vérifier si l'installation a été effectué, lancer Python et importez Py
 
 _____________________________________________________________
 
-Voilà, vous êtes prêts pour programmer de nombreuses Machines Learning avec PyTorch ! Amusez-vous bien ! 
+Voilà, vous êtes prêts pour programmer de nombreux réseaux de neuronnes avec PyTorch ! Amusez-vous bien ! 
